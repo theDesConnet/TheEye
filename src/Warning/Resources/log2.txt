@@ -1,0 +1,28 @@
+ ____                    ____                                          
+/\  _`\                 /\  _`\                                        
+\ \ \L\_\  __  __     __\ \ \/\_\    ___   _ __   _____                
+ \ \  _\L /\ \/\ \  /'__`\ \ \/_/_  / __`\/\`'__\/\ '__`\              
+  \ \ \L\ \ \ \_\ \/\  __/\ \ \L\ \/\ \L\ \ \ \/ \ \ \L\ \             
+   \ \____/\/`____ \ \____\\ \____/\ \____/\ \_\  \ \ ,__/             
+    \/___/  `/___/> \/____/ \/___/  \/___/  \/_/   \ \ \/              
+               /\___/                               \ \_\              
+               \/__/                                 \/_/              
+                                                                       
+ /'\_/`\                                                               
+/\      \     __    ____    ____     __    ___      __      __   _ __  
+\ \ \__\ \  /'__`\ /',__\  /',__\  /'__`\/' _ `\  /'_ `\  /'__`\/\`'__\
+ \ \ \_/\ \/\  __//\__, `\/\__, `\/\  __//\ \/\ \/\ \L\ \/\  __/\ \ \/ 
+  \ \_\\ \_\ \____\/\____/\/\____/\ \____\ \_\ \_\ \____ \ \____\\ \_\ 
+   \/_/ \/_/\/____/\/___/  \/___/  \/____/\/_/\/_/\/___L\ \/____/ \/_/ 
+                                                    /\____/            
+                                                    \_/__/             
+(Log on channel: "EyeDevTeam")
+ 
+[Message from David] Mike, have you figured out a system of protection against those who want to know more?
+[Message from Mike] Yes, of course. Those who try to find out more than necessary will be severely punished.
+[Message from Mike] The protection just won't allow you to know more than you need to know.
+[Message from John] Cool, good job Mike.
+[Message from David] Almost everything is ready to launch our project.
+[Message from Mike] Yep! Project "TheEye" is about to begin.
+
+(End Logs)

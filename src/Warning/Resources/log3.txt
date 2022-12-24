@@ -1,0 +1,28 @@
+ ____                    ____                                          
+/\  _`\                 /\  _`\                                        
+\ \ \L\_\  __  __     __\ \ \/\_\    ___   _ __   _____                
+ \ \  _\L /\ \/\ \  /'__`\ \ \/_/_  / __`\/\`'__\/\ '__`\              
+  \ \ \L\ \ \ \_\ \/\  __/\ \ \L\ \/\ \L\ \ \ \/ \ \ \L\ \             
+   \ \____/\/`____ \ \____\\ \____/\ \____/\ \_\  \ \ ,__/             
+    \/___/  `/___/> \/____/ \/___/  \/___/  \/_/   \ \ \/              
+               /\___/                               \ \_\              
+               \/__/                                 \/_/              
+                                                                       
+ /'\_/`\                                                               
+/\      \     __    ____    ____     __    ___      __      __   _ __  
+\ \ \__\ \  /'__`\ /',__\  /',__\  /'__`\/' _ `\  /'_ `\  /'__`\/\`'__\
+ \ \ \_/\ \/\  __//\__, `\/\__, `\/\  __//\ \/\ \/\ \L\ \/\  __/\ \ \/ 
+  \ \_\\ \_\ \____\/\____/\/\____/\ \____\ \_\ \_\ \____ \ \____\\ \_\ 
+   \/_/ \/_/\/____/\/___/  \/___/  \/____/\/_/\/_/\/___L\ \/____/ \/_/ 
+                                                    /\____/            
+                                                    \_/__/             
+(Log on channel: "EyeDevTeam")
+ 
+[Message from David] So now we have to figure out how we are going to distribute "TheEye".
+[Message from John] I think we can distribute it under the guise of a horror game.
+[Message from John] But when the user launches our project will be too late, because it is already in our hands.
+[Message from Mike] Are you sure this is going to work?
+[Message from John] Well, I think most people would fall for it.
+[Message from David] So we've made up our minds. 
+
+(End Logs)
